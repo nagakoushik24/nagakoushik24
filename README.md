@@ -16,9 +16,8 @@ I enjoy solving problems in **Data Science**, **Signal Processing**, and **Machi
 
 ## 🌐 Let's Connect:
 
-- **LinkedIn:** [Naga Koushik](https://linkedin.com/in/naga-koushik)  
-- **Twitter:** [@naga_koushik](https://twitter.com/naga_koushik)  
-- **Email:** [nagakoushik@example.com](mailto:nagakoushik@example.com)  
+- **LinkedIn:** [Naga Koushik](https://www.linkedin.com/in/naga-koushik-040b80293/)   
+- **Email:** [nagakoushik24@gmail.com](mailto:nagakoushik24@gmail.com)  
 
 Feel free to reach out if you'd like to discuss AI/ML, Cloud Computing, or collaborate on exciting tech projects!
 
@@ -40,24 +39,24 @@ Feel free to reach out if you'd like to discuss AI/ML, Cloud Computing, or colla
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <a href="https://github.com/nagakoushik">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagakoushik&theme=radical&border=7F3FBF&background=0D1117" alt="Naga Koushik's GitHub streak"/>
+  <a href="https://github.com/nagakoushik24">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagakoushik24&theme=radical&border=7F3FBF&background=0D1117" alt="Naga Koushik's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/nagakoushik">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nagakoushik&theme=radical" alt="Naga Koushik's GitHub Contribution"/>
+  <a href="https://github.com/nagakoushik24">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nagakoushik24&theme=radical" alt="Naga Koushik's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/nagakoushik"><img alt="Naga Koushik's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nagakoushik&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/nagakoushik"><img alt="Naga Koushik's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nagakoushik&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/nagakoushik24"><img alt="Naga Koushik's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nagakoushik24&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/nagakoushik24"><img alt="Naga Koushik's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nagakoushik24&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=nagakoushik&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nagakoushik24&icon=0&color=0)](https://visitcount.itsvg.in)
 
