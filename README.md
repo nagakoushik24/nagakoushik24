@@ -8,10 +8,8 @@
     <td>
       <h2>I'm <strong>Naga Koushik</strong>, a dedicated undergraduate student at <strong>Amrita Vishwa Vidyapeetham</strong>, pursuing a B.Tech in Computer Science and Engineering (Artificial Intelligence).</h2>
       <p>My passion lies in <strong>Deep Learning</strong>, <strong>Artificial Intelligence</strong>, and <strong>Cloud Computing</strong>. I am an introvert, a backbencher, and someone who is always eager to learn, create, and innovate in the world of technology. 🚀</p>
-
       <h3>🌟 <strong>Life Motto:</strong></h3>
       <p><em>"Strive not to be a success, but rather to be of value." – Albert Einstein</em></p>
-
       <h2>💡 <strong>About Me:</strong></h2>
       <p>
         I have a keen interest in exploring the intersection of AI and stress management through my projects. I'm currently working on predicting stress levels using EEG signals and <strong>Generative Adversarial Networks (GANs)</strong>, a project that pushes the boundaries of mental health technologies. With a growing skill set in deep learning, I'm also focused on improving my understanding of <strong>Cloud Computing</strong> and <strong>Biomedical Signal Processing</strong>.
