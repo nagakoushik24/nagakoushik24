@@ -1,28 +1,18 @@
 # Hi there! 👋
 
-<table>
-  <tr>
-    <td>
-      <img src="assets/profile.jpg" alt="Naga Koushik" width="300"/>
-    </td>
-    <td>
-      <h2>I'm <strong>Naga Koushik</strong>, a dedicated undergraduate student at <strong>Amrita Vishwa Vidyapeetham</strong>, pursuing a B.Tech in Computer Science and Engineering (Artificial Intelligence).</h2>
-      <p>My passion lies in <strong>Deep Learning</strong>, <strong>Artificial Intelligence</strong>, and <strong>Cloud Computing</strong>. I am an introvert, a backbencher, and someone who is always eager to learn, create, and innovate in the world of technology. 🚀</p>
-      <h3>🌟 <strong>Life Motto:</strong></h3>
-      <p><em>"Strive not to be a success, but rather to be of value." – Albert Einstein</em></p>
-      <h2>💡 <strong>About Me:</strong></h2>
-      <p>
-        I have a keen interest in exploring the intersection of AI and stress management through my projects. I'm currently working on predicting stress levels using EEG signals and <strong>Generative Adversarial Networks (GANs)</strong>, a project that pushes the boundaries of mental health technologies. With a growing skill set in deep learning, I'm also focused on improving my understanding of <strong>Cloud Computing</strong> and <strong>Biomedical Signal Processing</strong>.
-      </p>
-      <p>
-        I enjoy solving problems in <strong>Data Science</strong>, <strong>Signal Processing</strong>, and <strong>Machine Learning</strong>, and love working on innovative projects that can have a real-world impact.
-      </p>
-    </td>
-  </tr>
-</table>
+I'm **Naga Koushik**, a dedicated undergraduate student at **Amrita Vishwa Vidyapeetham**, pursuing a B.Tech in Computer Science and Engineering (Artificial Intelligence). My passion lies in **Deep Learning**, **Artificial Intelligence**, and **Cloud Computing**. I am an introvert, a backbencher, and someone who is always eager to learn, create, and innovate in the world of technology. 🚀
+
+🌟 **Life Motto:** _"Strive not to be a success, but rather to be of value."_ – Albert Einstein
 
 ---
 
+## 💡 About Me:
+
+I have a keen interest in exploring the intersection of AI and stress management through my projects. I'm currently working on predicting stress levels using EEG signals and **Generative Adversarial Networks (GANs)**, a project that pushes the boundaries of mental health technologies. With a growing skill set in deep learning, I'm also focused on improving my understanding of **Cloud Computing** and **Biomedical Signal Processing**.
+
+I enjoy solving problems in **Data Science**, **Signal Processing**, and **Machine Learning**, and love working on innovative projects that can have a real-world impact.
+
+---
 
 ## 🌐 Let's Connect:
 
