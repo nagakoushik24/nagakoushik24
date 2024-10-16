@@ -2,7 +2,7 @@
 
 I'm **Naga Koushik**, a dedicated undergraduate student at **Amrita Vishwa Vidyapeetham**, pursuing a B.Tech in Computer Science and Engineering (Artificial Intelligence). My passion lies in **Deep Learning**, **Artificial Intelligence**, and **Cloud Computing**. I am an introvert, a backbencher, and someone who is always eager to learn, create, and innovate in the world of technology. 🚀
 
-> 🌟 **Life Motto:**  _"Don't Let you vanish in the Tide named ***~TIME~***."_ – **SNK**
+> 🌟 **Life Motto:**  _"Don't Let you vanish in the Tide named ***TIME***."_ – **SNK**
 
 ---
 
