@@ -4,7 +4,7 @@
 🏫 Amrita Vishwa Vidyapeetham  
 📍 Passionate about Deep Learning, Artificial Intelligence, Cloud Computing
 
-> 🌟 **Life Motto:**  _"Sometimes not giving up is the most Heroic thing you could do😉✌️"_ – **SNK**
+> 🌟"Sometimes not giving up is the most Heroic thing you could do😉✌️"_ – **SNK**
 
 ---
 
