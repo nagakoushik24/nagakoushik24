@@ -1,16 +1,20 @@
-# Hi there! 👋
+# 👋 Hello! I'm Naga Koushik
 
-I'm **Naga Koushik**, a dedicated undergraduate student at **Amrita Vishwa Vidyapeetham**, pursuing a B.Tech in Computer Science and Engineering (Artificial Intelligence). My passion lies in **Deep Learning**, **Artificial Intelligence**, and **Cloud Computing**. I am an introvert, a backbencher, and someone who is always eager to learn, create, and innovate in the world of technology. 🚀
+🎓 B.Tech in Computer Science and Engineering (Artificial Intelligence)  
+🏫 Amrita Vishwa Vidyapeetham  
+📍 Passionate about Deep Learning, Artificial Intelligence, Cloud Computing
 
-> 🌟 **Life Motto:**  _"Don't Let you vanish in the Tide named ***TIME***."_ – **SNK**
+> 🌟 **Life Motto:**  _"Sometimes not giving up is the most Heroic thing you could do😉✌️"_ – **SNK**
 
 ---
 
 ## 💡 About Me:
 
-I have a keen interest in exploring the intersection of AI and stress management through my projects. I'm currently working on predicting stress levels using EEG signals and **Generative Adversarial Networks (GANs)**, a project that pushes the boundaries of mental health technologies. With a growing skill set in deep learning, I'm also focused on improving my understanding of **Cloud Computing** and **Biomedical Signal Processing**.
+I’m Naga Koushik, an enthusiastic undergraduate pursuing B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence at Amrita Vishwa Vidyapeetham. My academic journey is driven by a deep curiosity for how machines learn and reason, and I actively explore areas like Deep Learning, Speech Processing, Cloud Computing, and Mathematics for Computing.
 
-I enjoy solving problems in **Data Science**, **Signal Processing**, and **Machine Learning**, and love working on innovative projects that can have a real-world impact.
+With a solid foundation in Python, data-driven problem-solving, and hands-on experience with tools like TensorFlow, Scikit-learn, and AWS, I enjoy building intelligent systems that can learn from and adapt to complex data.
+
+I'm a detail-oriented learner who thrives on exploring new technologies, working in collaborative teams, and striving for technical excellence. I value clarity in design, explainability in AI, and solutions that make a tangible impact.
 
 ---
 
