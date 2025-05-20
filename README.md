@@ -44,12 +44,6 @@ Feel free to reach out if you'd like to discuss AI/ML, Cloud Computing, or colla
 
 <p align="center">
   <a href="https://github.com/nagakoushik24">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagakoushik24&theme=radical&border=7F3FBF&background=0D1117" alt="Naga Koushik's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/nagakoushik24">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nagakoushik24&theme=radical" alt="Naga Koushik's GitHub Contribution"/>
   </a>
 </p>
