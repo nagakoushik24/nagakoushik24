@@ -2,7 +2,7 @@
 
 🎓 B.Tech in Computer Science and Engineering (Artificial Intelligence)  
 🏫 Amrita Vishwa Vidyapeetham  
-📍 Passionate about Deep Learning, Artificial Intelligence, Cloud Computing
+📍 Passionate about Deep Learning, Artificial Intelligence, Generative AI, Cloud Computing
 
 > 🌟"Sometimes not giving up is the most Heroic thing you could do😉✌️"_ – **SNK**
 
